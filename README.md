@@ -19,7 +19,7 @@
 * [CodeBlocks](http://codeblocks.org)
 * [Spacemacs](http://spacemacs.org) + [CMake](https://cmake.org)
 ### - MacOS
-* [XCode](https://developer.apple.com/xcode/) - dont you this, its crap
+* [XCode](https://developer.apple.com/xcode/) - dont use this, its crap
 * [Visual Studio Code](https://code.visualstudio.com) + [CMake](https://cmake.org)
 * [CLion](https://www.jetbrains.com/clion/) - register with your susi account
 * [Spacemacs](http://spacemacs.org) + [CMake](https://cmake.org)
